@@ -1,7 +1,5 @@
 
 /**
-	Karimshan Nawaz
-	11305835
 	Lab 4 CSCE 3530
 	Server that accepts single client’s request using sockets.
 	Demonstrates TCP handshake using TCP segments.
