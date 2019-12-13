@@ -1,5 +1,4 @@
 
-- Karimshan Nawaz (11305835)
 - CSCE 3530 Lab 4: Demonstrates TCP 3-way handshake and closing a TCP connection using a client-server architecture.
 				   Furthermore, the client will send a 1KB (1024 bytes) file to the server and the
 				   server will send acknowledgements of each 128-byte segment received.
@@ -46,6 +45,4 @@ Addition for lab 4:
 	and the server responds with a TCP acknowledgement segment. This process is repeated another
 	7 times until the whole 1024 bytes is transferred over.
 
-
-- Karimshan Nawaz
 
